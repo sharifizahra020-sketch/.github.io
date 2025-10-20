@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My AI Mental Health Chatbot for Girls in Afghanistan</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; background-color: #f0f8ff; padding: 20px; }
+        h1 { color: #333; }
+        iframe { border: 2px solid #007bff; border-radius: 10px; width: 100%; max-width: 600px; height: 500px; }
+        p { max-width: 600px; margin: 20px auto; line-height: 1.5; }
+    </style>
+</head>
+<body>
+    <h1>My AI Mental Health Chatbot for Girls in Afghanistan</h1>
+    <p>Hi! I'm Sharifizahra, from Afghanistan. This AI-powered chatbot helps with mental health talks in English/Dari/Pashto, inspired by my challenges. Try it: Ask about stress, dreams, or AI! Link for UWC: <a href="https://cdn.botpress.cloud/webchat/v3.3/shareable.html?configUrl=https://files.bpcontent.cloud/2025/07/27/03/20250727031847-S23UUN98.json" target="_blank">Direct Bot</a></p>
+    <iframe src="https://cdn.botpress.cloud/webchat/v3.3/shareable.html?configUrl=https://files.bpcontent.cloud/2025/07/27/03/20250727031847-S23UUN98.json" sandbox="allow-scripts allow-same-origin" allowfullscreen></iframe>
+    <p><small>Built with Botpress. For my UWC app – AI for girls' mental health in Afghanistan.</small></p>
+</body>
+</html>
